@@ -41,7 +41,6 @@ To test your installation, run:
 ```   
 composer 
 ```
-<img src="composer.png" alt="drawing" width="500"/>
 
 
 
