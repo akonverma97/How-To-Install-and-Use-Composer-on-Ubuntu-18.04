@@ -45,7 +45,7 @@ composer
 ## Now we linke composer file 
 
 ```
-ln -s /usr/local/bin/composer.phar /usr/local/bin/composer.phar
+ln -s /usr/local/bin/composer.phar /usr/bin/composer
 ```
 
 
