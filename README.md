@@ -42,6 +42,12 @@ To test your installation, run:
 composer 
 ```
 
+## Now we linke composer file 
+
+```
+ln -s /usr/local/bin/composer.phar /usr/local/bin/composer.phar
+```
+
 
 
 
